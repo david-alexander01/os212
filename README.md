@@ -2,4 +2,4 @@
 # Operating Systems 2021-2
 Hello, I am David Alexander and this is my GitHub page.
 
-<a href="/os212/w00.md">Week 0</a>
+<a href="/w00.md">Week 0</a>
