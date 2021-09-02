@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 90 L00 Read W00 presentation and started on the assignments
-ZCZC W00 30 L04 GHGT about github pages
-ZCZC W00 45 L32 Watched "Linux Sucks 2021"
+ZCZC W00  90 L00 Read W00 presentation and started on the assignments
+ZCZC W00  30 L04 GHGT about github pages
+ZCZC W00  45 L32 Watched "Linux Sucks 2021"
+ZCZC W00 100 L02 Participated in synchronous class
+ZCZC W00  60 L06 Read chapter 1 of textbook
+ZCZC W00  20 L04 Create "checklists.md" to help keep track on my progress
