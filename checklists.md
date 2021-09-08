@@ -27,11 +27,11 @@ For personal use to keep track on assignment progress.
 
 [x] Dress up my virtual guest
 
-[ ] SSH keys for Git
+[x] SSH keys for Git
 
-[ ] Dress up my GitHub page
+[x] Dress up my GitHub page
 
-[ ] Update mylog.txt
+[x] Update mylog.txt
 
 [ ] More awk, bash, regex, sed
 
