@@ -6,22 +6,36 @@ permalink: /CHECKLISTS/
 For personal use to keep track on assignment progress.
 
 ## Week 00
-- [x] Public repository
-- [x] Start week 00 log
-- [x] Create my GitHub page
-- [x] Register course through Google Forms
-- [x] Read "What defines an Operating Systems?"
+[x] Public repository
+
+[x] Start week 00 log
+
+[x] Create my GitHub page
+
+[x] Register course through Google Forms
+
+[x] Read "What defines an Operating Systems?"
+
+
 
 ## Week 01
-- [ ] VirtualBox guest preparation
-- [ ] Importing (OVA) or installing (ISO)?
-- [ ] Do the ATM way: GHGT and read
-- [ ] Learn/try essential commands
-- [ ] Dress up my virtual guest
-- [ ] SSH keys for Git
-- [ ] Dress up my GitHub page
-- [ ] Update mylog.txt
-- [ ] More awk, bash, regex, sed
+[x] VirtualBox guest preparation
+
+[x] <mark>Importing</mark> (OVA) or installing (ISO)?
+
+[ ] Do the ATM way: GHGT and read
+
+[x] Dress up my virtual guest
+
+[ ] SSH keys for Git
+
+[ ] Dress up my GitHub page
+
+[ ] Update mylog.txt
+
+[ ] More awk, bash, regex, sed
+
+[ ] Read OSC10 chapter 1, 2, and 18
 
 ## Week 02
 - [ ] Read OSC10 chapter 16 + 17

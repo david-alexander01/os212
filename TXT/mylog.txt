@@ -7,3 +7,8 @@ ZCZC W00  45 L32 Watched "Linux Sucks 2021"
 ZCZC W00 100 L02 Participated in synchronous class
 ZCZC W00  60 L06 Read chapter 1 of textbook
 ZCZC W00  20 L04 Create "checklists.md" to help keep track on my progress
+ZCZC W01  80 L02 Participated in synchronous class
+ZCZC W01  30 L06 Skim read chapter 18 of textbook
+ZCZC W01  10 L11 Download all the required files
+ZCZC W01  20 L12 Install Debian and try out stuff
+ZCZC W01  90 L73 Dota W-L 2-0
