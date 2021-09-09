@@ -12,4 +12,6 @@ ZCZC W01  30 L06 Skim read chapter 18 of textbook
 ZCZC W01  10 L11 Download all the required files
 ZCZC W01  20 L12 Install Debian and try out stuff
 ZCZC W01  90 L73 Dota W-L 2-0
-ZCZC W01  90 L31 Related to assignements 4 and 5
+ZCZC W01  90 L31 Related to assignments 4 and 5
+ZCZC W01  90 L08 Assistance session from Asdos
+ZCZC W01  60 L73 Dota W-L 0-1

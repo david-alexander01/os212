@@ -38,9 +38,14 @@ For personal use to keep track on assignment progress.
 [ ] Read OSC10 chapter 1, 2, and 18
 
 ## Week 02
-- [ ] Read OSC10 chapter 16 + 17
-- [ ] Try [Demo Week2](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
-- [ ] [Generate a GnuPG Key Pair](https://osp4diss.vlsm.org/ETC/ospubkey.txt) 
-- [ ] Import the operatingsystems@vlsm.org **Public Key** [here](https://osp4diss.vlsm.org/ETC/ospubkey.txt)
-- [ ] Export **MY PUBLIC KEY** to be displayed as https://cbkadal.github.io/os212/TXT/mypubkey.txt
-- [ ] Visit [GitHubPages](https://os.vlsm.org/GitHubPages/). Review and pick at least 3 out of my 10 **next** closest neighbors. Place the result [here](https://cbkadal.github.io/os212/TXT/myrank.txt)
+[ ] Read OSC10 chapter 16 + 17
+
+[ ] Try [Demo Week2](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+
+[ ] [Generate a GnuPG Key Pair](https://osp4diss.vlsm.org/ETC/ospubkey.txt) 
+
+[ ] Import the operatingsystems@vlsm.org **Public Key** [here](https://osp4diss.vlsm.org/ETC/ospubkey.txt)
+
+[ ] Export **MY PUBLIC KEY** to be displayed as https://cbkadal.github.io/os212/TXT/mypubkey.txt
+
+[ ] Visit [GitHubPages](https://os.vlsm.org/GitHubPages/). Review and pick at least 3 out of my 10 **next** closest neighbors. Place the result [here](https://cbkadal.github.io/os212/TXT/myrank.txt)
