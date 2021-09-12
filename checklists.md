@@ -23,7 +23,7 @@ For personal use to keep track on assignment progress.
 
 [x] <mark>Importing</mark> (OVA) or installing (ISO)?
 
-[ ] Do the ATM way: GHGT and read
+[x] Do the ATM way: GHGT and read
 
 [x] Dress up my virtual guest
 
@@ -33,9 +33,9 @@ For personal use to keep track on assignment progress.
 
 [x] Update mylog.txt
 
-[ ] More awk, bash, regex, sed
+[x] More awk, bash, regex, sed
 
-[ ] Read OSC10 chapter 1, 2, and 18
+[x] Read OSC10 chapter 1, 2, and 18
 
 ## Week 02
 [ ] Read OSC10 chapter 16 + 17

@@ -20,3 +20,10 @@ ZCZC W01  30 L02 Participated in synchronous class
 ZCZC W01  30 L13 Started learning VIM and basic Linux commands
 ZCZC W01  15 L16 Dressed up my GitHub page
 ZCZC W01   5 L17 Update mylog.txt (this file)
+ZCZC W01 180 L73 Dota W-L 3-1
+ZCZC W01 110 L73 Dota W-L 1-1
+ZCZC W01 150 L73 Dota W-L 0-3
+ZCZC W01 120 L73 Dota W-L 1-1
+ZCZC W01  30 L18 Learn more about awk, grep, bash, etc.
+ZCZC W01  15 L19 Blaze through chapter 2 of textbook
+ZCZC W01  85 L73 Dota W-L 0-2
