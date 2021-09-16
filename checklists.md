@@ -42,10 +42,16 @@ For personal use to keep track on assignment progress.
 
 [ ] Try [Demo Week2](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
 
-[ ] [Generate a GnuPG Key Pair](https://osp4diss.vlsm.org/ETC/ospubkey.txt) 
+[x] [Generate a GnuPG Key Pair](https://osp4diss.vlsm.org/ETC/ospubkey.txt) 
 
-[ ] Import the operatingsystems@vlsm.org **Public Key** [here](https://osp4diss.vlsm.org/ETC/ospubkey.txt)
+[x] Import and sign the operatingsystems@vlsm.org **Public Key** [here](https://osp4diss.vlsm.org/ETC/ospubkey.txt)
 
-[ ] Export **MY PUBLIC KEY** to be displayed as https://cbkadal.github.io/os212/TXT/mypubkey.txt
+[x] Export **MY PUBLIC KEY** to be displayed [here](https://raw.githubusercontent.com/david-alexander01/os212/master/TXT/mypubkey.txt)
 
-[ ] Visit [GitHubPages](https://os.vlsm.org/GitHubPages/). Review and pick at least 3 out of my 10 **next** closest neighbors. Place the result [here](https://cbkadal.github.io/os212/TXT/myrank.txt)
+[ ] Update [links] (LINKS)
+
+[ ] Update log
+
+[x] Write (copas-ed) myscript.sh
+
+[x] Visit [GitHubPages](https://os.vlsm.org/Log/). Review and pick at least 3 out of my 10 **next** closest neighbors.
