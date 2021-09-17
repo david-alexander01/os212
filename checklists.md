@@ -50,7 +50,7 @@ For personal use to keep track on assignment progress.
 
 [ ] Update [links] (LINKS)
 
-[ ] Update log
+[x] Update log
 
 [x] Write (copas-ed) myscript.sh
 
