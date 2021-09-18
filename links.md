@@ -23,3 +23,7 @@ permalink: /LINKS/
 5. [C Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 
     Now you can ctrl+f your way to become a master C programmer!
+
+6. [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
+
+    Good stuff to look at while bored. You will probably need VPN or DNS to access.

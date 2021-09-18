@@ -38,9 +38,9 @@ For personal use to keep track on assignment progress.
 [x] Read OSC10 chapter 1, 2, and 18
 
 ## Week 02
-[ ] Read OSC10 chapter 16 + 17
+[x] Read OSC10 chapter 16 + 17
 
-[ ] Try [Demo Week2](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+[x] Try [Demo Week2](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
 
 [x] [Generate a GnuPG Key Pair](https://osp4diss.vlsm.org/ETC/ospubkey.txt) 
 
@@ -48,7 +48,7 @@ For personal use to keep track on assignment progress.
 
 [x] Export **MY PUBLIC KEY** to be displayed [here](https://raw.githubusercontent.com/david-alexander01/os212/master/TXT/mypubkey.txt)
 
-[ ] Update [links] (LINKS)
+[x] Update [links](LINKS)
 
 [x] Update log
 
