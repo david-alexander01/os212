@@ -55,3 +55,23 @@ For personal use to keep track on assignment progress.
 [x] Write (copas-ed) myscript.sh
 
 [x] Visit [GitHubPages](https://os.vlsm.org/Log/). Review and pick at least 3 out of my 10 **next** closest neighbors.
+
+## Week 03
+
+[] Read OSC10 chapter 13, 14, 15
+
+[] Try [Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+
+[] Try Previous Midterm [Problems](https://rms46.vlsm.org/2/198.pdf)
+
+[x] Check if ".bash_alises" file is up to date
+
+[] Add/create an extra virtual disk
+
+[] Update my bookmark links
+
+[] Review my peer's links
+
+[] Update my log
+
+[] Submit my week 03 assignment
