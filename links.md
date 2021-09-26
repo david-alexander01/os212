@@ -27,3 +27,15 @@ permalink: /LINKS/
 6. [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
 
     Good stuff to look at while bored. You will probably need VPN or DNS to access.
+
+7. [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+
+    Before taking this course, most of us probably have never touched the linux command line, so having to exclusively use them on OS maybe quite overwhelming. This guide covers the basic all the way to the advance stuff we can do in the command line to improve our flexibility and productivity. It even comes in [Bahasa Indonesia](https://github.com/jlevy/the-art-of-command-line/blob/master/README-id.md)! Credits to DAB - Dennis for sharing this one.
+
+8. [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)
+
+    Everything is a file! This video explains all the folders that exists in the root.
+
+9. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
+
+    Hate watching videos? Here's a cheatsheet (well, something you can ctrl+f during quiz). Basically talks about the same thing with the link before this one.

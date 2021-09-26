@@ -47,3 +47,13 @@ ZCZC W02  40 L12 Try all c-language demos
 ZCZC W02  45 L11 Skim read chapter 16
 ZCZC W02  45 L11 Skim read chapter 17
 ZCZC W02  45 L27 Learn what everything in myscript.sh actually do
+ZCZC W03   5 L14 Check if ".bash_aliases" is up to date
+ZCZC W03  45 L15 Create an extra virtual disk
+ZCZC W03  15 L16 Update my bookmark links
+ZCZC W03  10 L17 Review (and rank) my peer's links
+ZCZC W03  10 L18 Update mylog.txt
+ZCZC W03  30 L11 Skim read chapter 13 + 14 + 15
+ZCZC W03  30 L12 Try W03 demos
+ZCZC W03  45 L13 Try previous midterm problems
+ZCZC W03  15 L23 Try out stuff about tarball
+ZCZC W03   5 L19 Submit Week03 assignments

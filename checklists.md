@@ -64,9 +64,9 @@ For personal use to keep track on assignment progress.
 
 [] Try Previous Midterm [Problems](https://rms46.vlsm.org/2/198.pdf)
 
-[x] Check if ".bash_alises" file is up to date
+[x] Check if ".bash_aliases" file is up to date
 
-[] Add/create an extra virtual disk
+[x] Add/create an extra virtual disk
 
 [] Update my bookmark links
 
