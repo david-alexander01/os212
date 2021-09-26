@@ -52,9 +52,9 @@ ZCZC W03  45 L15 Create an extra virtual disk
 ZCZC W03  15 L16 Update my bookmark links
 ZCZC W03  10 L17 Review (and rank) my peer's links
 ZCZC W03  10 L18 Update mylog.txt
-ZCZC W03  30 L11 Skim read chapter 13 + 14 + 15
-ZCZC W03  30 L12 Try W03 demos
-ZCZC W03  45 L13 Try previous midterm problems
+ZCZC W03  60 L11 Skim read chapter 13 + 14 + 15
+ZCZC W03  75 L12 Try W03 demos
+ZCZC W03  75 L13 Try previous midterm problems
 ZCZC W03  15 L23 Try out stuff about tarball
 ZCZC W03   5 L19 Submit Week03 assignments
 ZCZC W03 300 L73 Dota W-L 5-2
