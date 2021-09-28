@@ -75,3 +75,23 @@ For personal use to keep track on assignment progress.
 [x] Update my log
 
 [x] Submit my week 03 assignment
+
+## Week 04
+
+[] Read OSC10 chapter 9
+
+[] Try [Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+
+[] Try Previous Midterm [Problems](https://osp4diss.vlsm.org/osp-103.html#idxpl2)
+
+[x] Install packages
+
+[x] Fetch and Extract w04 stuff
+
+[] Update my bookmark links
+
+[] Review my peer's links
+
+[] Update my log
+
+[x] Submit my week 04 assignment

@@ -39,3 +39,7 @@ permalink: /LINKS/
 9. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
 
     Hate watching videos? Here's a cheatsheet (well, something you can ctrl+f during quiz). Basically talks about the same thing with the link before this one.
+
+10. [My os212-dump Repository](https://github.com/david-alexander01/os212-dump)
+
+    Have you ever spend an unhealthy amount of time trying to automate a 5 minute task? This repo is a collection of results of me doing that kind of stuff. That's a lot of "of"s.
