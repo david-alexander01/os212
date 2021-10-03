@@ -78,20 +78,20 @@ For personal use to keep track on assignment progress.
 
 ## Week 04
 
-[] Read OSC10 chapter 9
+[x] Read OSC10 chapter 9
 
-[] Try [Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+[x] Try [Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
 
-[] Try Previous Midterm [Problems](https://osp4diss.vlsm.org/osp-103.html#idxpl2)
+[x] Try Previous Midterm [Problems](https://rms46.vlsm.org/2/199.pdf)
 
 [x] Install packages
 
 [x] Fetch and Extract w04 stuff
 
-[] Update my bookmark links
+[x] Update my bookmark links
 
-[] Review my peer's links
+[x] Review my peer's links
 
-[] Update my log
+[x] Update my log
 
 [x] Submit my week 04 assignment
