@@ -95,3 +95,22 @@ For personal use to keep track on assignment progress.
 [x] Update my log
 
 [x] Submit my week 04 assignment
+
+##
+[x] Read OSC chapter 10
+
+[x] Try [Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+
+[x] Try Previous Midterm [Problems](https://rms46.vlsm.org/2/200.pdf)
+
+[x] How Low (Memory) Can You Go?
+
+[x] Update my bookmark links
+
+[x] Review my peer's links
+
+[x] Update my log
+
+[] (Optional) Make "TIPS/"
+
+[x] Submit my week 05 assignment

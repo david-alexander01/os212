@@ -72,3 +72,13 @@ ZCZC W04  20 L13 Try previous midterm problems
 ZCZC W04   5 L16 Update bookmark links
 ZCZC W04  10 L17 Review peer links
 ZCZC W04  10 L18 Update mglog.txt
+ZCZC W05  20 L05 Do quiz
+ZCZC W05 100 L02 Participated in synchronous class
+ZCZC W05 250 L73 Dota W-L 5-0
+ZCZC W05  30 L14 Do week 05 assignments
+ZCZC W05  45 L11 Read chapter 10
+ZCZC W05  15 L12 Try demos
+ZCZC W05 120 L13 Try previous midterm problems
+ZCZC W05  15 L17 Review peer links
+ZCZC W05   5 L18 Update mylog.txt
+ZCZC W05  10 L19 Submit week 05 assignments
