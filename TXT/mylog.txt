@@ -82,3 +82,6 @@ ZCZC W05 120 L13 Try previous midterm problems
 ZCZC W05  15 L17 Review peer links
 ZCZC W05   5 L18 Update mylog.txt
 ZCZC W05  10 L19 Submit week 05 assignments
+ZCZC W06  20 L05 Do quiz
+ZCZC W06 100 L02 Participated in synchronous class
+ZCZC W06 880 L73 Dota 13-7

@@ -43,3 +43,11 @@ permalink: /LINKS/
 10. [My os212-dump Repository](https://github.com/david-alexander01/os212-dump)
 
     Have you ever spend an unhealthy amount of time trying to automate a 5 minute task? This repo is a collection of results of me doing that kind of stuff. That's a lot of "of"s.
+
+11. [Multithreading code](https://youtu.be/7ENFeb-J75k)
+
+    Interesting stuff about multithreading that we take for granted.
+
+12. [fork()](https://www.geeksforgeeks.org/fork-system-call/) and a bit of [Demonstration](https://www.geeksforgeeks.org/c-program-demonstrate-fork-and-pipe/)
+
+    Do you not understand a single thing discussed in the class? Me too! Here's fork(). The first link explains what fork is and the difference between child and parent processes, while the second link is another example of forking.
