@@ -57,7 +57,6 @@ For personal use to keep track on assignment progress.
 [x] Visit [GitHubPages](https://os.vlsm.org/Log/). Review and pick at least 3 out of my 10 **next** closest neighbors.
 
 ## Week 03
-
 [x] Read OSC10 chapter 13, 14, 15
 
 [x] Try [Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
@@ -77,7 +76,6 @@ For personal use to keep track on assignment progress.
 [x] Submit my week 03 assignment
 
 ## Week 04
-
 [x] Read OSC10 chapter 9
 
 [x] Try [Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
@@ -96,7 +94,7 @@ For personal use to keep track on assignment progress.
 
 [x] Submit my week 04 assignment
 
-##
+## Week 05
 [x] Read OSC chapter 10
 
 [x] Try [Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
@@ -114,3 +112,22 @@ For personal use to keep track on assignment progress.
 [] (Optional) Make "TIPS/"
 
 [x] Submit my week 05 assignment
+
+## Week 06
+[x] Read OSC10 chapter 3 and 4
+
+[x] Try [demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+
+[x] Try Previous Midterm [problems](https://rms46.vlsm.org/2/200.pdf)
+
+[x] Fork() and shared memory
+
+[x] Update links
+
+[] (Optional) Make "TIPS/"
+
+[x] Review peer links
+
+[x] Update log
+
+[x] Submit my week 06 assignment

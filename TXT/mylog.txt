@@ -84,4 +84,12 @@ ZCZC W05   5 L18 Update mylog.txt
 ZCZC W05  10 L19 Submit week 05 assignments
 ZCZC W06  20 L05 Do quiz
 ZCZC W06 100 L02 Participated in synchronous class
-ZCZC W06 880 L73 Dota 13-7
+ZCZC W06 940 L73 Dota 16-8
+ZCZC W06  30 L14 Do week 06 assignments
+ZCZC W06  30 L11 Skim read chapter 3 + 4
+ZCZC W06  30 L12 Try demos
+ZCZC W06  90 L13 Try previous midterm problems
+ZCZC W06  15 L15 Update links
+ZCZC W06  15 L17 Review peer links
+ZCZC W06  10 L18 Update log
+ZCZC W06   5 L19 Submit week06 assignments
