@@ -118,7 +118,7 @@ For personal use to keep track on assignment progress.
 
 [x] Try [demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
 
-[x] Try Previous Midterm [problems](https://rms46.vlsm.org/2/200.pdf)
+[x] Try Previous Midterm [problems](https://rms46.vlsm.org/2/201.pdf)
 
 [x] Fork() and shared memory
 
@@ -131,3 +131,22 @@ For personal use to keep track on assignment progress.
 [x] Update log
 
 [x] Submit my week 06 assignment
+
+## Week 07
+[x] Read OSC chapter 6, 7, 8
+
+[x] Try [demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+
+[x] Try Previous Midterm [problems](https://rms46.vlsm.org/2/202.pdf)
+
+[x] Synchronization and Shared Memory
+
+[x] Update links
+
+[] (Optional) Make "TIPS/"
+
+[x] Review peer links
+
+[x] Update log
+
+[x] Submit week 07 assignment

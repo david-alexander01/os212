@@ -93,3 +93,14 @@ ZCZC W06  15 L15 Update links
 ZCZC W06  15 L17 Review peer links
 ZCZC W06  10 L18 Update log
 ZCZC W06   5 L19 Submit week06 assignments
+ZCZC W07  20 L05 Do quiz
+ZCZC W07 100 L02 Participated in synchronous class
+ZCZC W07  30 L14 Do week 07 assignments
+ZCZC W07  20 L11 reread chapter 3
+ZCZC W07  60 L11 Read chapter 6 + 7 + 8
+ZCZC W07  60 L12 Try demos
+ZCZC W07  30 L13 Try previous midterm problems
+ZCZC W07  15 L15 Update links
+ZCZC W07  15 L17 Review peer links
+ZCZC W07  10 L18 Update log
+ZCZC W07   5 L19 Submit week07 assignments

@@ -51,3 +51,7 @@ permalink: /LINKS/
 12. [fork()](https://www.geeksforgeeks.org/fork-system-call/) and a bit of [Demonstration](https://www.geeksforgeeks.org/c-program-demonstrate-fork-and-pipe/)
 
     Do you not understand a single thing discussed in the class? Me too! Here's fork(). The first link explains what fork is and the difference between child and parent processes, while the second link is another example of forking.
+
+13. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)
+
+    Quick and simple explanation about semaphores
