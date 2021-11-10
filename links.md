@@ -55,3 +55,11 @@ permalink: /LINKS/
 13. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)
 
     Quick and simple explanation about semaphores
+
+14. [An Old Game Installation Tutorial](https://www.linuxfromscratch.org/hints/downloads/files/unreal_tournament.txt)
+
+    A 2004 post by someone having trouble trying to install a game on his computer. It is interesting to see how "manual" everything is back then.
+
+15. [Parallel Compiling](https://www.linuxfromscratch.org/hints/downloads/files/parallelcompiling.txt)
+
+    Apparently, you can compile more than one thing at a time using multiple compiler instances. This is probably not useful for this class, but it might come in handy if you're planning to build another LFS.
