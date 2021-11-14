@@ -17,3 +17,6 @@ ZCZC W06 ilhanfn
 ZCZC W07 ivanphanderson
 ZCZC W07 jasonwidodo
 ZCZC W07 irhaml
+ZCZC W08 johaneschristian
+ZCZC W08 jeromeez
+ZCZC W08 kanziebub

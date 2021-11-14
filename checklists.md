@@ -152,11 +152,11 @@ For personal use to keep track on assignment progress.
 [x] Submit week 07 assignment
 
 ## Week 08
-[] Read OSC chapter, 5
+[x] Read OSC chapter 5
 
-[] Try [demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
+[x] Try [demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
 
-[] Try Previous Midterm [problems](https://rms46.vlsm.org/2/203.pdf)
+[x] Try Previous Midterm [problems](https://rms46.vlsm.org/2/203.pdf)
 
 [x] Linux From Scratch 11.0 Chapter 01-04
 
@@ -166,8 +166,8 @@ For personal use to keep track on assignment progress.
 
 [] (Optional) Make "TIPS/"
 
-[] Review peer links
+[x] Review peer links
 
-[] Update log
+[x] Update log
 
-[] Submit week 08 assignments
+[x] Submit week 08 assignments
